@@ -72,6 +72,10 @@ This is an example of web application developed using HTML5, CSS3 and vanilla Ja
 
 ## Contact
 
-Jong Kim - [LinkedIn](https://www.linkedin.com/in/jong-kim-19807a1b8/) - jong.kim8706@gmail.com
+Jong Kim - jong.kim8706@gmail.com
+[![LinkedIn][linkedin-shield]][linkedin-url]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/jong-kim-19807a1b8/
