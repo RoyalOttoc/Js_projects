@@ -75,21 +75,3 @@ This is an example of web application developed using HTML5, CSS3 and vanilla Ja
 Jong Kim - [LinkedIn](https://www.linkedin.com/in/jong-kim-19807a1b8/) - jong.kim8706@gmail.com
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/js-light-dark-mode.svg?style=for-the-badge
-[contributors-url]: https://github.com/siladikarlo856/js-light-dark-mode/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/siladikarlo856/js-light-dark-mode.svg?style=for-the-badge
-[forks-url]: https://github.com/siladikarlo856/js-light-dark-mode/network/members
-[stars-shield]: https://img.shields.io/github/stars/siladikarlo856/js-light-dark-mode.svg?style=for-the-badge
-[stars-url]: https://github.com/siladikarlo856/js-light-dark-mode/stargazers
-[issues-shield]: https://img.shields.io/github/issues/siladikarlo856/js-light-dark-mode.svg?style=for-the-badge
-[issues-url]: https://github.com/siladikarlo856/js-light-dark-mode/issues
-[license-shield]: https://img.shields.io/github/license/siladikarlo856/js-light-dark-mode.svg?style=for-the-badge
-[license-url]: https://github.com/siladikarlo856/js-light-dark-mode/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/karlosiladi
-[light-mode-screenshot]: images/light-mode.png
-[dark-mode-screenshot]: images/dark-mode.png
