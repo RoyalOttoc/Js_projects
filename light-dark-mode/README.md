@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/RoyalOttoc/Js_projects/tree/master/light-dark-mode">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://st3.depositphotos.com/3867453/14101/v/600/depositphotos_141016536-stock-illustration-letter-j-logo-icon-design.jpg" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Light and dark mode portfolio page template</h3>
