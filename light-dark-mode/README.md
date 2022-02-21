@@ -45,11 +45,11 @@
 
 ### Light mode screenshot
 
-[![Light mode Screen Shot][light-mode-screenshot]](https://siladikarlo856.github.io/js-light-dark-mode/)
+[![royalottoc-github-io-Js-projects-light-dark-mode-index-html.png](https://i.postimg.cc/8cTrgNFd/royalottoc-github-io-Js-projects-light-dark-mode-index-html.png)](https://postimg.cc/ZBDqrkx0)
 
 ### Dark mode screenshot
 
-[![Dark mode Screen Shot][dark-mode-screenshot]](https://siladikarlo856.github.io/js-light-dark-mode/)
+[![royalottoc-github-io-Js-projects-light-dark-mode-index-html-1.png](https://i.postimg.cc/cJqCN02K/royalottoc-github-io-Js-projects-light-dark-mode-index-html-1.png)](https://postimg.cc/680trJ9w)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
