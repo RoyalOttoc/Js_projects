@@ -6,3 +6,4 @@ Javascript projects
 2. Infinite-Scroll
 3. Picture in Picture
 4. Joke Teller
+5. Light-Dark Mode
